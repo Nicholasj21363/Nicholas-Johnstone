@@ -1,6 +1,6 @@
 # Chrome
 
-1. Click on the <img width="9" alt="triple bar settings btn" src="https://user-images.githubusercontent.com/41082194/63546593-0577d000-c4df-11e9-8e18-37d7c8dad70b.png"> button on the top right of your browser
+1. Click on the <img width="9" alt="settings btn" src="https://user-images.githubusercontent.com/41082194/63546593-0577d000-c4df-11e9-8e18-37d7c8dad70b.png"> button on the top right of your browser
 2. In the dropdown menu, select **Settings**. 
 3. Enter ‘cookies’ in the search field on the top of the page.
 4. Click on **Site Settings**, under the **Privacy and Security section**.
