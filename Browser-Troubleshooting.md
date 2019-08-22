@@ -1,6 +1,6 @@
 # Chrome
 
-1. Click on the  button on the top right of your browser
+1. Click on the <img width="9" alt="triple bar settings btn" src="https://user-images.githubusercontent.com/41082194/63546593-0577d000-c4df-11e9-8e18-37d7c8dad70b.png"> button on the top right of your browser
 2. In the dropdown menu, select **Settings**. 
 3. Enter ‘cookies’ in the search field on the top of the page.
 4. Click on **Site Settings**, under the **Privacy and Security section**.
@@ -15,7 +15,7 @@ Still need help? Contact Support
 
 
 # Brave
-1. Click on the x button on the top right of your browser
+1. Click on the <img width="9" alt="triple bar settings btn" src="https://user-images.githubusercontent.com/41082194/63546589-03ae0c80-c4df-11e9-9a6c-8106fd7b7202.png"> button on the top right of your browser
 2. In the dropdown menu, select **Settings**. 
 3. On the left section, click on **Additional Settings**
 4. Click on **Privacy and Security**
@@ -29,7 +29,7 @@ Still need help? Contact Support
 
 
 # Firefox
-1. Click on x button on the top right of your browser
+1. Click on <img width="9" alt="triple bar settings btn" src="https://user-images.githubusercontent.com/41082194/63546589-03ae0c80-c4df-11e9-9a6c-8106fd7b7202.png"> button on the top right of your browser
 2. In the dropdown menu, select **Preferences**. 
 3. On the left navigation menu, click on **Privacy & Security**
 4. Scroll down to the **Cookies and Site Data** section, and click on **Manage Permissions**.
