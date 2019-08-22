@@ -36,7 +36,7 @@ While WalletLink should work on all modern desktop web browsers, we recommend us
 
 1. Click on the shield button ( <img width="20" alt="" src="https://user-images.githubusercontent.com/30173/63556406-9196f100-c4f9-11e9-97dc-5615ec2896b1.png"> ) on the right of your browser's address bar.
 2. Click on the toggle next to the label "Shields UP for this site" to turn it off. It should then say "Shields DOWN for this site".
-3. You're done!
+3. Brave will automatically refresh the page and you're done!
 
 - - -
 
