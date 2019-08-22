@@ -36,4 +36,7 @@ Still need help? Contact Support
 5. Copy and paste this link `https://[*.]walletlink.org`    into the text field and then click **Add** 
 6. Return to the Dapp, refresh the page and you’re done!
 
-
+# safari
+1. Click on **Safari** on the top left of your screen to see the dropdown menu.
+2. Click **Preferences**
+3. Click on the **Privacy** tab, and uncheck the **Block all cookies** checkbox
