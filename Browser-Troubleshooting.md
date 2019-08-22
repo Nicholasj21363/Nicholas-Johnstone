@@ -1,3 +1,5 @@
+While we recommend using Google Chrome, WalletLink should work on all modern desktop web browsers. In case you're having trouble using WalletLink, follow the instructions for your browser below . 
+ 
 # Chrome
 
 1. Click on the <img width="3" alt="settings btn" src="https://user-images.githubusercontent.com/41082194/63546593-0577d000-c4df-11e9-8e18-37d7c8dad70b.png"> button on the top right of your browser
