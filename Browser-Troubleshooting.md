@@ -2,7 +2,7 @@
 
 1. Click on the <img width="3" alt="settings btn" src="https://user-images.githubusercontent.com/41082194/63546593-0577d000-c4df-11e9-8e18-37d7c8dad70b.png"> button on the top right of your browser
 2. In the dropdown menu, select **Settings**. 
-3. Enter ‘cookies’ in the search field on the top of the page.
+3. Enter "cookies" in the search field on the top of the page.
 4. Click on **Site Settings**, under the **Privacy and Security section**.
 5. Click on **Cookies** under the **Permissions** section
 6. Next to the **Allow** section, click on the **Add** button
@@ -32,8 +32,8 @@
 1. Click on **Safari** on the top left of your screen to see the dropdown menu.
 2. Click **Preferences**
 3. Click on the **Privacy** tab, and uncheck the **Block all cookies** checkbox
+4. Return to the Dapp, refresh the page and you’re done!
 
-
-
+***
 
 Still having problems? [Leave a comment in Issues](https://github.com/walletlink/walletlink/issues)
