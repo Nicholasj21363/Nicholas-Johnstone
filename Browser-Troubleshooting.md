@@ -9,11 +9,6 @@
 7. Copy and paste this link `https://[*.]walletlink.org` into the text field and then click **Add** 
 8. Return to the Dapp, refresh the page and you’re done!
 
-Still need help? Contact Support 
-
-
-
-
 # Brave
 1. Click on the <img width="9" alt="triple bar settings btn" src="https://user-images.githubusercontent.com/41082194/63546589-03ae0c80-c4df-11e9-9a6c-8106fd7b7202.png"> button on the top right of your browser
 2. In the dropdown menu, select **Settings**. 
@@ -25,9 +20,6 @@ Still need help? Contact Support
 8. Copy and paste this link `https://[*.]walletlink.org` into the text field and then click **Add** 
 9. Return to the Dapp, refresh the page and you’re done!
 
-
-
-
 # Firefox
 1. Click on <img width="9" alt="triple bar settings btn" src="https://user-images.githubusercontent.com/41082194/63546589-03ae0c80-c4df-11e9-9a6c-8106fd7b7202.png"> button on the top right of your browser
 2. In the dropdown menu, select **Preferences**. 
@@ -36,7 +28,10 @@ Still need help? Contact Support
 5. Copy and paste this link `https://[*.]walletlink.org`    into the text field and then click **Add** 
 6. Return to the Dapp, refresh the page and you’re done!
 
-# safari
+# Safari
 1. Click on **Safari** on the top left of your screen to see the dropdown menu.
 2. Click **Preferences**
 3. Click on the **Privacy** tab, and uncheck the **Block all cookies** checkbox
+
+
+Still having problems? Leave a comment in Issues 
