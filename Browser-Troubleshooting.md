@@ -35,5 +35,4 @@
 4. Return to the Dapp, refresh the page and you’re done!
 
 ***
-
 Still having problems? [Leave a comment in Issues](https://github.com/walletlink/walletlink/issues)
